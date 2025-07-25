@@ -35,13 +35,13 @@ Several calculations are key to the dashboard :
   - Forecasts : DAX measures such as Fcst M+1, Fcst M+2, Fcst M+3 are created for dynamic future sales forecasting based on existing inventory data. Error handling with IF statements is implemented to account for scenarios where forecasts are absent.
 
 - Charting and Visualization
-Visual elements such as bar charts for sales forecasts and pie charts are created for stock value distribution by expiry buckets. The data behind these charts gets organized in a separated sheet which are consists of pivot table 2, pivot table 3 and pivot table 4.
+  - Visual elements such as bar charts for sales forecasts and pie charts are created for stock value distribution by expiry buckets. The data behind these charts gets organized in a separated sheet which are consists of pivot table 2, pivot table 3 and pivot table 4.
 
 - Finalization and Formatting
-The summary shapes are added in the dashboard. The dashboard then is beautified with formatting options, aligning data, borders, and coloring to create an appealing report. Conditional formatting is added to highlight reorder flags and data labels are managed for clarity. The charts and shapes are aligned correctly to ensure a clean presentation.
+  - The summary shapes are added in the dashboard. The dashboard then is beautified with formatting options, aligning data, borders, and coloring to create an appealing report. Conditional formatting is added to highlight reorder flags and data labels are managed for clarity. The charts and shapes are aligned correctly to ensure a clean presentation.
 
 - Interactivity
-Slicers are incorporated to filter data dynamically based on categories, significantly enhancing user interaction with the dashboard.
+  - Slicers are incorporated to filter data dynamically based on categories, significantly enhancing user interaction with the dashboard.
 
 Conclusion
 
