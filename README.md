@@ -46,3 +46,5 @@ Several calculations are key to the dashboard :
 Conclusion
 
 This structured approach outlines key steps in building an inventory tracking dashboard in Microsoft excel, emphasizing the integration, modeling, calculation and visualization phases necessary for effective data reporting.
+
+Source: https://www.youtube.com/watch?v=F758-wUXznc 
